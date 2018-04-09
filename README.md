@@ -8,3 +8,5 @@ Reads ultra sonic values and displays to a simple 16 x 2 LCD monitor.
 3. UltraSonic Sensor
 4. Breadboard, Jumper Wires, other components.
 
+![Image of the components (first day)]
+(https://www.flickr.com/photos/137913828@N07/41307860742/in/dateposted-public/)
